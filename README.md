@@ -76,6 +76,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 1. Tony Yang (liuliu036@gmail.com)
 
 [更多贡献者](https://github.com/yidao620c/python3-cookbook/graphs/contributors)
+[经典教程](https://www.liaoxuefeng.com/)
 
 -----------------------------------------------------
 
