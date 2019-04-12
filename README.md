@@ -56,7 +56,9 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
 ```
+## 练习计划
 
+久练成习，久习成性，通达无碍，运用之妙，存乎于心!
 
 ## 其他贡献者
 
