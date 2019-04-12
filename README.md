@@ -58,7 +58,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 ```
 ## 练习计划
 
-久练成习，久习成性，通达无碍，运用之妙，存乎于心!
+一本专注，一门深入，久练成习，久习成性，通达无碍，运用之妙，存乎于心!
 
 ## 其他贡献者
 
